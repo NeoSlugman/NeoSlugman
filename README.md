@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeoSlugman
-- 👀 I’m interested in DIY / Tech / Computers / Networks
+- 👀 I’m interested in DIY / Tech / Computers / Networks / Red teaming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything new and fun
 - 📫 How to reach me neoslugman@gmail.com
